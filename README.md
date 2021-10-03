@@ -1,4 +1,4 @@
-## Hi there, I'm Sagar Wadhwa 👋
+## Hi there 👋 , I'm Sagar Wadhwa 
 
 - 🔭 I’m currently a second year Computer Science Engineering student at Amity University, Noida
 - 🌱 I’m currently learning and exploring the paths of Web Development and Machine Learning 
