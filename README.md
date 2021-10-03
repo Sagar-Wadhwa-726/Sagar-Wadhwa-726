@@ -4,7 +4,7 @@
 
 
 ## I'm a second year Computer Science Engineering student at Amity University, Noida
-- 🌱 I’m currently learning and exploring differenct tech domains such as Web Development and ML/AI
+- 🌱 I’m currently learning and exploring differenct tech domains such as Web Development and ML/AI, also, I love to code and solve different problems related to DSA.
 - 💬 Ask me about HTML, CSS, JS, Website Hosting, React
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Apart from Tech, I have a great interest for space exploration stuff.
