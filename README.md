@@ -1,7 +1,5 @@
 # Hi there 👋 , I'm Sagar Wadhwa
 
-[![Website](https://img.shields.io/website?label=sagarwadhwa.live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sagarwadhwa.live)
-
 
 ## I'm a second year Computer Science Engineering student at Amity University, Noida
 - 🌱 I’m currently learning and exploring differenct tech domains such as Web Development and ML/AI, also, I love to code and solve different problems related to DSA.
@@ -10,8 +8,6 @@
 - ⚡ Fun fact: Apart from Tech, I have a great interest for space exploration stuff.
 
 ### Connect with me:
-
-[<img align="left" alt="www.sagarwadhwa.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="Sagar Wadhwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
