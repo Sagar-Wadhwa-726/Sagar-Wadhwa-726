@@ -17,6 +17,8 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Essential Linux Commands](https://sagarwadhwa.hashnode.dev/essential-linux-commands)
+- [Computer Networking Fundamentals](https://sagarwadhwa.hashnode.dev/computer-networking-fundamentals)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Connect with me</h2>
