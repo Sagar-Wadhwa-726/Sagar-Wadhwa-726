@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **and exploring different tech domains such as Web and Android Development. I like to code and solve different problems related to DSA.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sagar-Wadhwa-726](https://github.com/Sagar-Wadhwa-726)
+- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/Sagar-Wadhwa-726)
 
-- 📝 I regularly write articles on [https://sagarwadhwa.hashnode.dev/](https://sagarwadhwa.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://sagarwadhwa.hashnode.dev/)
 
 - 💬 Ask me about **HTML, CSS, JS, Website Hosting, Django**
 
 - 📫 How to reach me **sagarwadhwa888@gmail.com**
 
-- 📄 Know about my experiences [See my Resume !](https://drive.google.com/file/d/1ANJz_jQt0ghpRPV3FCWL5UA3M3uoaHD4/view)
+- 📄 Know about my experiences [See my Resume!](https://drive.google.com/file/d/1ANJz_jQt0ghpRPV3FCWL5UA3M3uoaHD4/view)
 
 - ⚡ Fun fact **Apart from Tech, I have a great interest for space exploration stuff.**
 
