@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sagarwadhwa888@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hMilSMSndcYnLiu3yPCcI-zo5PZuVaU2/view?usp=sharing](https://drive.google.com/file/d/1hMilSMSndcYnLiu3yPCcI-zo5PZuVaU2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hMilSMSndcYnLiu3yPCcI-zo5PZuVaU2/view?usp=sharing](bit.ly/3iS3IOv)
 
 - ⚡ Fun fact **Apart from Tech, I have a great interest for space exploration stuff.**
 
