@@ -23,7 +23,7 @@
 
 <h2 align="left">🌐 Connect with me</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/sagar-wadhwa-9b1a791b7?_l=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-wadhwa-9b1a791b7/" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/sagar-wadhwa-9b1a791b7?_l=en_US](https://www.linkedin.com/in/sagar1303/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-wadhwa-9b1a791b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/wadhwa5049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wadhwa5049" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sagarwadhwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sagarwadhwa" height="30" width="40" /></a>
 
