@@ -17,9 +17,9 @@
 
 ## 🚨 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everything you need to know about YAML !](https://sagarwadhwa.hashnode.dev/everything-you-need-to-know-about-yaml)
-- [Essential Linux Commands](https://sagarwadhwa.hashnode.dev/essential-linux-commands)
-- [Computer Networking Fundamentals](https://sagarwadhwa.hashnode.dev/computer-networking-fundamentals)
+- [Everything you need to know about YAML !](https://sagarw.cloud/everything-you-need-to-know-about-yaml)
+- [Essential Linux Commands](https://sagarw.cloud/essential-linux-commands)
+- [Computer Networking Fundamentals](https://sagarw.cloud/computer-networking-fundamentals)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">🌐 Connect with me</h2>
