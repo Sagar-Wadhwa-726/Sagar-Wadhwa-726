@@ -17,7 +17,7 @@
 
 ## 🚨 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How GrowInCommunity helped me rise the career in tech?](https://sagarw.cloud/how-growincommunity-helped-me-rise-the-carreer-in-tech)
+- [How GrowInCommunity helped me rise the carreer in tech?](https://sagarw.cloud/how-growincommunity-helped-me-rise-the-carreer-in-tech)
 - [Everything you need to know about YAML !](https://sagarw.cloud/everything-you-need-to-know-about-yaml)
 - [Essential Linux Commands](https://sagarw.cloud/essential-linux-commands)
 - [Computer Networking Fundamentals](https://sagarw.cloud/computer-networking-fundamentals)
